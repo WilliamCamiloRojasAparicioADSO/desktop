@@ -1,0 +1,175 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+  }
+  .imagen1{
+    background-color: white;
+    transform: translateY(200px);
+    height: 1000px;
+
+  }
+  .img1{
+    width: 1270px;
+    height: 700px;
+  }
+  .img2{
+    display: flex;
+    align-items: 40px;
+    width: 1000px;
+    margin-left: 170px;
+    transform: translateY(-600px);
+  }
+  .img3{
+    display: flex;
+    align-items: 50px;
+    width: 600px;
+    margin-left: 350px;
+    transform: translateY(-500px);
+
+  }
+  .tetx1{
+    font-family: calibri;
+    transform: translateY(-900px);
+  }
+  .title{
+    color: blue;
+    font-size: 40px;
+    margin-left: 200px;
+
+  }
+  .texconter{
+    color: blue;
+    font-size: 20px;
+    width: 400px;
+    margin-left: 200px;
+  }
+  .buton{
+    color: blue;
+    border-radius: 50px;
+    border-color: rgb(5, 5, 135);
+    border-bottom: 0cap;
+    margin-left: 400px;
+    transform: translateY(-851px);
+    width: 200px;
+    height: 50px;
+  }
+  .galery{
+    background-color: blue;
+    transform: translateY(-600px);
+    height: 600px;
+  }
+.img4{
+    width: 1100px;
+    height: 350px;
+    margin: 60px;
+    margin-left: 70px;
+}
+.img5{
+    width: 90px;
+    height: 20px;
+    transform: translatex(950px);
+}
+.tex{
+    color: white;
+    font-size: 30px;
+    transform: translateY(-70px);
+    margin-left: 80px;
+    font-family: Calibri ;
+}
+.tex2{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    transform: translateY(-70px);
+    margin-left: 80px;
+    font-family: Calibri ;
+}
+.img6{
+  margin-left: 180px;
+  width: 1000px;
+  transform: translateY(-300px);
+}
+
+.tex3{
+  color: blue;
+  margin-left: 400px;
+  font-size: 90px;
+  transform: translateY(-1250px)
+}
+.tex4{
+  color: blue;
+  margin-left: 200px;
+  transform: translateY(-800px);
+  font-size: 20px;
+}
+
+.tex5{
+  color: blue;
+ margin-left: 180px;
+  transform: translateY(-800px);
+}
+.tex6{
+  color: blue;
+  margin-left: 200px;
+  transform: translateY(-430px);
+  font-size: 20px;
+}
+.tex7{
+  color: blue;
+  margin-left: 200px;
+  transform: translateY(-420px);
+  font-size: 20px
+}
+.tex8{
+  color: blue;
+  margin-left: 700px;
+  transform: translateY(-550px);
+  font-size: 20px;
+}
+
+.tex10{
+  color: blue;
+  margin-left: 700px;
+  transform: translateY(-540px);
+  font-size: 20px;
+}
+.tex11{
+  color: blue;
+  margin-left: 1000px;
+  transform: translateY(-499px);
+  font-size: 20px;
+}
+.login{
+  background-color: blue;
+  transform: translateY(-400px);
+  height: 700px;
+}
+.img7{
+  width: 1270px;
+  
+}
+.img8{
+  width: 300px;
+  transform: translateY(-550px);
+  margin-left: 800px;
+}
+.caja2{
+  transform: translateY(-1000px);
+}
+.title1{
+  color: white;
+  font-size: 50px;
+  margin-left: 40px;
+}
+.texto2{
+  color: white;
+  margin-left: 40px;
+}
+.lorem{
+  color: white;
+  margin-left: 40px;
+  width: 600px;
+}
+.boton{
+  
+}
